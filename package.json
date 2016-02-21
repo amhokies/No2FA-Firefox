@@ -1,0 +1,16 @@
+{
+  "title": "No2FA",
+  "name": "no2fa-firefox",
+  "version": "0.0.1",
+  "description": "An add-on to skip the page asking to sign up for 2 factor authentication on Virginia Tech sites",
+  "main": "index.js",
+  "author": "Alex Marshall",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "no2fa"
+  ]
+}
